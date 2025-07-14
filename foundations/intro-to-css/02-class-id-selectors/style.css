@@ -1,0 +1,27 @@
+body {
+    margin-top: 10px;
+    background-color: white;
+}
+
+.background {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: lightpink;
+    color: black;
+}
+
+.div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.p2 {
+    font-size: 24px;
+}
+
+.div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
+
